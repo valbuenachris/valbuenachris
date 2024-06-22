@@ -79,17 +79,11 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-   
+    <a href="https://github.com/valbuenachris/shortlink"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=valbuenachris&repo=shortlink&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/valbuenachris/shortlink"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=valbuenachris&repo=shortlink&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/valbuenachris/shortlink"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=valbuenachris&repo=shortlink&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/valbuenachris/shortlink"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=valbuenachris&repo=shortlink&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   </p>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valbuenachris&repo=shortlink&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/valbuenachris/shortlink)
-
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valbuenachris&repo=shortlink&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/valbuenachris/shortlink)
   
-
-  
-
   <a href="https://github.com/valbuenachris?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
