@@ -12,8 +12,6 @@
 <div align="center">
   
 # 💫About Me :
-
-
 <p align="center">
   <!-- Typing SVG by valbuenachris - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/valbuenachris/readme-typing-svg">
@@ -86,3 +84,16 @@
 
   <a href="https://github.com/valbuenachris?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+
+## Las estadisticas del repositorio
+![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=valbuenachris&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valbuenachris&layout=compact&theme=dark)
+
+## Mis ultimos videos de Youtube
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Barber Bot?🤔](https://ytcards.demolab.com/?id=DYIbBgObv-0&title=Barber%20WhatsAppBot&lang=en&timestamp=1718169510&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "¿Lograremos el proyecto?🤔")](https://www.youtube.com/watch?v=L2EO0Z3YvRk&t=38s)
+[![Probamos la biblioteca de animaciones GSAP](https://ytcards.demolab.com/?id=NAusdXw77Bo&title=Probamos+la+biblioteca+de+animaciones+GSAP&lang=en&timestamp=1717933341&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Probamos la biblioteca de animaciones GSAP")](https://www.youtube.com/watch?v=NAusdXw77Bo)
+[![He creado una playlist con todo el contenido que vimos de Storybook en los en vivos 📚](https://ytcards.demolab.com/?id=9z_tcdxz-KM&title=He+creado+una+playlist+con+todo+el+contenido+que+vimos+de+Storybook+en+los+en+vivos+%F0%9F%93%9A&lang=en&timestamp=1717645361&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "He creado una playlist con todo el contenido que vimos de Storybook en los en vivos 📚")](https://www.youtube.com/watch?v=9z_tcdxz-KM)
+[![Charlamos y hacemos un tutorial de Scratch por el día del niño](https://ytcards.demolab.com/?id=unmqgxbWoCc&title=Charlamos+y+hacemos+un+tutorial+de+Scratch+por+el+d%C3%ADa+del+ni%C3%B1o&lang=en&timestamp=1717327119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Charlamos y hacemos un tutorial de Scratch por el día del niño")](https://www.youtube.com/watch?v=unmqgxbWoCc)
+[![Niñas en STEM: Conversatorio con Domenica Vega](https://ytcards.demolab.com/?id=n-NTtQEeYNk&title=Ni%C3%B1as+en+STEM%3A+Conversatorio+con+Domenica+Vega&lang=en&timestamp=1716718764&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Niñas en STEM: Conversatorio con Domenica Vega")](https://www.youtube.com/watch?v=n-NTtQEeYNk)
+[![Evento mañana ‼️ con Doménica Vega 💜](https://ytcards.demolab.com/?id=YlAz3Gk7L0I&title=Evento+ma%C3%B1ana+%E2%80%BC%EF%B8%8F+con+Dom%C3%A9nica+Vega+%F0%9F%92%9C&lang=en&timestamp=1716572562&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Evento mañana ‼️ con Doménica Vega 💜")](https://www.youtube.com/watch?v=YlAz3Gk7L0I)
+<!-- END YOUTUBE-CARDS -->
