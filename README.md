@@ -83,7 +83,7 @@
 &repo=shortlink" alt="Shortlink"></a>
   </p>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valbuenachris&repo=shortlink&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/anuraghazra/shortlink)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valbuenachris&repo=shortlink&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/valbuenachris/shortlink)
   
   
 
