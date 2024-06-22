@@ -1,4 +1,5 @@
 
+
 <h3 align="center">
   Welcome to CRS Developer!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -7,22 +8,17 @@
   <a href="https://github.com/valbuenachris/valbuenachris"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+valbuenachris;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
 </p>
 
-<p align="center">
-  <!-- Typing SVG by valbuenachris - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/valbuenachris/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Chris%20Valbuena&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
+---
+<div align="center">
+  
+# 💫About Me :
+
 
 <p align="center">
   <!-- Typing SVG by valbuenachris - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/valbuenachris/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
----
-<div align="center">
-  
-# 💫About Me :
 🔭 I’m currently working on my github page : https://educol.co
   
 🌱 I’m currently learning : Node.js
