@@ -86,7 +86,7 @@
 </details>
 
 ## Las estadisticas del repositorio
-![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=valbuenachris&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valbuenachris&layout=compact&theme=dark)
+![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=valbuenachris&theme=radical&hide_border=false&include_all_commits=false&count_private=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valbuenachris&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Mis ultimos videos de Youtube
 <!-- BEGIN YOUTUBE-CARDS -->
