@@ -87,6 +87,7 @@
 
 ## Las estadisticas del repositorio
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=valbuenachris&theme=radical&hide_border=false)<br/>
 ![valbuenaChris' GitHub stats](https://github-readme-stats.vercel.app/api?username=valbuenachris&theme=radical&hide_border=false&include_all_commits=false&count_private=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valbuenachris&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Mis ultimos videos de Youtube
