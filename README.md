@@ -84,7 +84,7 @@
   <a href="https://github.com/valbuenachris?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-## Mis ultimos videos de Youtube
+## My latest Youtube videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Barber Bot?🤔](https://ytcards.demolab.com/?id=L2EO0Z3YvRk&t=38s&title=Barber%20WhatsAppBot&lang=en&timestamp=1718169510&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Barber WhatsApp Bot")](https://www.youtube.com/watch?v=L2EO0Z3YvRk&t=38s)
 [![Barber Bot?🤔](https://ytcards.demolab.com/?id=L2EO0Z3YvRk&t=38s&title=Barber%20WhatsAppBot&lang=en&timestamp=1718169510&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Barber WhatsApp Bot")](https://www.youtube.com/watch?v=L2EO0Z3YvRk&t=38s)
